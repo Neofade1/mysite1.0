@@ -1,4 +1,4 @@
 # LEGO Compare
 Сайт для сравнения цен на LEGO-наборы.
 
-[Открыть сайт](https://neofade.github.io/lego-compare/)
+[Открыть сайт](https://neofade1.github.io/mysite1.0/)
